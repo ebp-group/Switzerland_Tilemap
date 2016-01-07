@@ -1,4 +1,4 @@
-# Switzerland_Tilemap
+# A tilemap for Switzerland
 
 This repository contains a square tilemap of the cantons and half-cantons of Switzerland. This is roughly based on ideas in http://blog.apps.npr.org/2015/05/11/hex-tile-maps.html and in http://aftertheflood.co/projects/london-squared-map.
 
