@@ -17,7 +17,7 @@ Please feel free to use all resources in this repository. The only thing to do: 
 * Shapefile in CH1903 LV03 in the approximately correct location
 * Example ArcGIS 10.3. project illustrating the use of the shapefile
 * Some example graphics
-* GeoJSON file, which can be viewed directly on GitHub. Conversion with
+* GeoJSON file, which can be viewed directly on GitHub. Conversion with `ogr2ogr`. Needs to be realigned for Mercator projection.
 
         ogr2ogr -f GeoJSON -s_srs epsg:21781 -t_srs crs:84 Switzerland_Tiles.geojson Switzerland_Tiles.shp
 
