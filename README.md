@@ -17,3 +17,5 @@ Please feel free to use all resources in this repository. The only thing to do: 
 * Shapefile in CH1903 LV03 in the approximately correct location
 * Example ArcGIS 10.3. project illustrating the use of the shapefile
 * Some example graphics
+
+For more infos see: http://www.geo.ebp.ch/2016/01/07/tilemap-der-schweiz
