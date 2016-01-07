@@ -4,11 +4,12 @@ This repository contains a square tilemap of the cantons and half-cantons of Swi
 
 ## What you get
 This repository contains everything you need to make these:
+
 ![Tilemap overlaid on geographically correct map](https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/Karte.png)
 ![Tilemap without the lakes](https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/Switzerland-Tiles%20-%20wo-Lakes.png)
 ![Result of the 1992 EEA vote in Switzerland](https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/Beispieldarstellung_Karte_EWR_Abstimmung.png)
 
-## Usage
+## How to use
 Please feel free to use all resources in this repository. The only thing to do: Please include a note saying "CC-BY EBP, www.ebp.ch". Thank you.
 
 ## Formats
