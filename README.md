@@ -18,4 +18,4 @@ Please feel free to use all resources in this repository. The only thing to do: 
 * Example ArcGIS 10.3. project illustrating the use of the shapefile
 * Some example graphics
 
-For more infos see: http://www.geo.ebp.ch/2016/01/07/tilemap-der-schweiz
+For more infos see: http://www.geo.ebp.ch/2016/01/07/tilemap-der-schweiz (German) or http://www.ralphstraumann.ch/blog/2016/01/switzerland-tile-map (English).
