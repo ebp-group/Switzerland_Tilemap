@@ -10,7 +10,7 @@ This repository contains everything you need to make these:
 ![Result of the 1992 EEA vote in Switzerland](https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/Beispieldarstellung_Karte_EWR_Abstimmung.png)
 
 ## How to use
-Please feel free to use all resources in this repository. The only thing to do: Please include a note saying "CC-BY EBP, www.ebp.ch". Thank you.
+Please feel free to use all resources in this repository. The only thing to do: Please include a note saying "CC-BY www.ebp.ch". Thank you.
 
 ## Formats
 * SVG
