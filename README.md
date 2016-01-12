@@ -5,9 +5,14 @@ This repository contains a square tilemap of the cantons and half-cantons of Swi
 ## What you get
 This repository contains everything you need to make these:
 
-![Tilemap overlaid on geographically correct map](https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Comparison_geography.png)
-![Tilemap without the lakes](https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Switzerland-Tiles%20-%20wo-Lakes.png)
-![Result of the 1992 EEA vote in Switzerland](https://github.com/ernstbaslerpartner/Switzerland_Tilemap/blob/master/examples/Example_map_EEA_vote.png)
+####Tilemap overlaid on geographically correct map (&copy; swisstopo)
+<img title="Tilemap overlaid on geographically correct map" src="https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Comparison_geography.png" width="600">
+
+####Tilemap (without lakes):
+<img title="Tilemap (without lakes)" src="https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Switzerland-Tiles%20-%20wo-Lakes.png" width="600">
+
+####Example map: Result of the 1992 EEA vote in Switzerland
+<img title="Example map: Result of the 1992 EEA vote in Switzerland" src="https://github.com/ernstbaslerpartner/Switzerland_Tilemap/blob/master/examples/Example_map_EEA_vote.png" width="600">
 
 ## How to use
 Please feel free to use all resources in this repository. The only thing to do: Please include a note saying "CC-BY www.ebp.ch". Thank you.
@@ -18,11 +23,9 @@ https://github.com/ernstbaslerpartner/Switzerland_Tilemap/tree/master/data conta
 * Shapefile in CH1903 LV03
 * Shapefile in CH1903+ LV95
 * SVG file
+
 Additional material:
 * Example ArcGIS 10.3. project illustrating the use of the shapefiles
 * Example graphics
 
 For more infos see: http://www.geo.ebp.ch/2016/01/07/tilemap-der-schweiz (German) or http://www.ralphstraumann.ch/blog/2016/01/switzerland-tile-map (English).
-
-## Comparison with actual Swiss geography
-![Comparison to Swiss cantons](https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Switzerland-Tiles.png)
