@@ -13,9 +13,10 @@ This repository contains everything you need to make these:
 Please feel free to use all resources in this repository. The only thing to do: Please include a note saying "CC-BY www.ebp.ch". Thank you.
 
 ## Formats
-* SVG
-* Shapefile in CH1903 LV03 in the approximately correct location
-* Example ArcGIS 10.3. project illustrating the use of the shapefile
-* Some example graphics
+* SVG in CH1903 LV03
+* Shapefile in CH1903 LV03
+* Shapefile in CH1903+ LV95
+* Example ArcGIS 10.3. project illustrating the use of the shapefiles
+* Example graphics
 
 For more infos see: http://www.geo.ebp.ch/2016/01/07/tilemap-der-schweiz (German) or http://www.ralphstraumann.ch/blog/2016/01/switzerland-tile-map (English).
