@@ -14,6 +14,7 @@ Please feel free to use all resources in this repository. The only thing to do: 
 
 ## Formats
 * SVG in CH1903 LV03
+* Shapefile in Web Mercator (EPSG 3857) for use in web mapping frameworks such as https://cartodb.com
 * Shapefile in CH1903 LV03
 * Shapefile in CH1903+ LV95
 * Example ArcGIS 10.3. project illustrating the use of the shapefiles
