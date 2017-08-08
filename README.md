@@ -5,27 +5,27 @@ This repository contains a square tilemap of the cantons and half-cantons of Swi
 ## What you get
 This repository contains everything you need to make these:
 
-####Tilemap overlaid on geographically correct map (&copy; swisstopo)
+#### Tilemap overlaid on geographically correct map (&copy; swisstopo)
 
 <img title="Tilemap overlaid on geographically correct map" src="https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Comparison_geography.png" width="600">
 
-####Tilemap (without lakes):
+#### Tilemap (without lakes):
 
 <img title="Tilemap (without lakes)" src="https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Switzerland-Tiles%20-%20wo-Lakes.png" width="600">
 
-####Example map 1: Result of the 1992 vote on accession to the EEA
+#### Example map 1: Result of the 1992 vote on accession to the EEA
 
 <img title="Example map: Result of the 1992 vote on accession to the EEA" src="https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Example_map_EEA_vote.png" width="600">
 
-####Example map 2: Result of the 2016 vote on expulsion
+#### Example map 2: Result of the 2016 vote on expulsion
 
 <img title="Example map: Result of the 2016 vote on expulsion" src="https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Example_map_Expulsion.jpg" width="600">
 
-####Example map 3: Result of the 2016 vote on marriage taxation reform
+#### Example map 3: Result of the 2016 vote on marriage taxation reform
 
 <img title="Example map: Result of the 2016 vote on marriage taxation reform" src="https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/Example_map_Marriage_taxation_reform.jpg" width="600">
 
-####Example map 4: GitHub preview map of the Switzerland Tilemap GeoJSON file
+#### Example map 4: GitHub preview map of the Switzerland Tilemap GeoJSON file
 
 [<img title="Example map: Sample map displaying the GeoJSON file" src="https://raw.githubusercontent.com/ernstbaslerpartner/Switzerland_Tilemap/master/examples/GitHub-GeoJSON-map.png" width="600">](https://github.com/ernstbaslerpartner/Switzerland_Tilemap/blob/master/data/Switzerland_Tiles_EPSG4326_WGS1984.geojson)
 
