@@ -35,8 +35,9 @@ Please feel free to use all resources in this repository. The only thing to do: 
 ## Formats
 The [`data`](https://github.com/ernstbaslerpartner/Switzerland_Tilemap/tree/master/data) folder contains the following datasets and formats:
 
-* GeoJSON file in Mercator ([EPSG:4326](http://spatialreference.org/ref/epsg/4326)) for use in web mapping
+* GeoJSON file in WGS 1984 ([EPSG:4326](http://spatialreference.org/ref/epsg/4326)) for use in web mapping
 	* derived using [GDAL](http://www.gdal.org): `ogr2ogr -f GeoJSON -s_srs epsg:3857 -t_srs crs:84 Switzerland_Tiles_EPSG4326_WGS1984.geojson Switzerland_Tiles_EPSG3857_WebMercator.shp` 
+* GeoJSON file in Natural Earth projection ([cf.](https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/natural-earth.htm)) reprojected to WGS 1984 ([EPSG:4326](http://spatialreference.org/ref/epsg/4326)). Use this file in e.g. [Datawrapper](https://www.datawrapper.de) and choose "Natural Earth" projection for the tiles to display as regularly spaced squares.
 * Shapefile in Web Mercator ([EPSG:3857 / SR-ORG:7483](http://spatialreference.org/ref/sr-org/7483)) for use in web mapping frameworks such as [CartoDB](https://cartodb.com)
 * Shapefile in CH1903 LV03 ([EPSG:21781](http://spatialreference.org/ref/epsg/21781/))
 * Shapefile in CH1903+ LV95 ([EPSG:2056](http://spatialreference.org/ref/epsg/2056/))
