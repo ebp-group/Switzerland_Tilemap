@@ -35,7 +35,7 @@ Please feel free to use all resources in this repository. The only thing to do: 
 ## Formats
 The [`data`](https://github.com/ernstbaslerpartner/Switzerland_Tilemap/tree/master/data) folder contains the data behind the tilemap in GeoJSON (geo-web-native), Shapefile (not great, but most broadly usable industry 'standard'), and SVG (web-native) formats. The tilemap depicting regularly spaced and gridded squares (and half-squares) the data should not generally be re-projected. E.g., the tilemap file in Swiss projection does show squares when drawn, e.g., in a GIS. But if you reproject it to WGS 1984 and look at it, the squares won't be squares anymore. Thus, every projection system available below is its own product, not simply a reprojection.
 
-GeoJSON files are always in WGS 1984 ([EPSG:4326](http://spatialreference.org/ref/epsg/4326)), since that is what the standards require. However, the different GeoJSON files are made for displaying a regular (non-skewed, undistorted) tilemap in different spatial reference systems. The following files are available:
+GeoJSON files are always in WGS 1984 ([EPSG:4326](http://spatialreference.org/ref/epsg/4326)), since that is what the standard requires. However, the different GeoJSON files are made for displaying a regular (non-skewed, undistorted) tilemap in different spatial reference systems such as Web Mercator. The following files are available:
 
 * **data for display in Web Mercator** ([EPSG:3857 / SR-ORG:7483](http://spatialreference.org/ref/sr-org/7483)) ...
   - **... as GeoJSON file** (WGS 1984, [EPSG:4326](http://spatialreference.org/ref/epsg/4326)), for use in web mapping frameworks
