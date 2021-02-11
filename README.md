@@ -38,11 +38,13 @@ The [`data`](https://github.com/ernstbaslerpartner/Switzerland_Tilemap/tree/mast
 GeoJSON files are always in WGS 1984 ([EPSG:4326](http://spatialreference.org/ref/epsg/4326)), since that is what the standards require. However, the different GeoJSON files are made for displaying a regular (non-skewed, undistorted) tilemap in different spatial reference systems. The following files are available:
 
 * **data for display in Web Mercator** ([EPSG:3857 / SR-ORG:7483](http://spatialreference.org/ref/sr-org/7483)) ...
-  - **... as GeoJSON file** (WGS 1984, [EPSG:4326](http://spatialreference.org/ref/epsg/4326)) for use in web mapping frameworks
+  - **... as GeoJSON file** (WGS 1984, [EPSG:4326](http://spatialreference.org/ref/epsg/4326)), for use in web mapping frameworks
   - **... as Shapefile**, for use in web mapping frameworks such as [**CartoDB**](https://cartodb.com)
-* **data for display in Natural Earth Projection** ([cf.](https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/natural-earth.htm)) **as GeoJSON file** (WGS 1984, [EPSG:4326](http://spatialreference.org/ref/epsg/4326)). Use this file in e.g. [**Datawrapper**](https://www.datawrapper.de) and choose "Natural Earth" projection for the tiles to display as regularly spaced squares.
+* **data for display in Natural Earth Projection** ([cf.](https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/natural-earth.htm)) ...
+  - **... as GeoJSON file** (WGS 1984, [EPSG:4326](http://spatialreference.org/ref/epsg/4326)). Use this file in e.g. [**Datawrapper**](https://www.datawrapper.de) and choose "Natural Earth" projection for the tiles to display as regularly spaced squares.
+  - **... as Shapefile**, for use in desktop GIS or web mapping frameworks with custom projections
 * **data for display in CH1903+ LV95** ([EPSG:2056](http://spatialreference.org/ref/epsg/2056/)) **as Shapefile**, for use in desktop GIS or web mapping frameworks with custom projections
-* **data for display in CH1903 LV03** ([EPSG:21781](http://spatialreference.org/ref/epsg/21781/), a deprecated spatial reference system) **as Shapefile** for use in desktop GIS or web mapping frameworks with custom projections
+* **data for display in CH1903 LV03** ([EPSG:21781](http://spatialreference.org/ref/epsg/21781/), a deprecated spatial reference system) **as Shapefile**, for use in desktop GIS or web mapping frameworks with custom projections
 * **data as SVG file**
 
 Additional material:
