@@ -2,6 +2,8 @@
 
 This repository contains a square tilemap of the cantons and half-cantons of Switzerland. This is roughly based on ideas in http://blog.apps.npr.org/2015/05/11/hex-tile-maps.html and in http://aftertheflood.co/projects/london-squared-map.
 
+As of 02.2021, the tilemap is available as an official [Datawrapper](https://www.datawrapper.de/) basemap.  Upon [creating a new map in Datawrapper](https://app.datawrapper.de/create/map), simply select *"Choropleth Map"*, then look for *"Switzerland > Cantons (square)"*. See also [Weekly Chart: A tilemap of Switzerland cantons – with some twists](https://blog.datawrapper.de/tilemap-of-swiss-cantons/).
+
 ## What you get
 This repository contains everything you need to make these:
 
@@ -41,7 +43,7 @@ GeoJSON files are always in WGS 1984 ([EPSG:4326](http://spatialreference.org/re
   - **... as GeoJSON file** (WGS 1984, [EPSG:4326](http://spatialreference.org/ref/epsg/4326)), for use in web mapping frameworks
   - **... as Shapefile**, for use in web mapping frameworks such as [**CartoDB**](https://cartodb.com)
 * **data for display in Natural Earth Projection** ([cf.](https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/natural-earth.htm)) ...
-  - **... as GeoJSON file** (WGS 1984, [EPSG:4326](http://spatialreference.org/ref/epsg/4326)). Use this file in e.g. [**Datawrapper**](https://www.datawrapper.de) and choose "Natural Earth" projection for the tiles to display as regularly spaced squares. Update: As of 02.2021, the tilemap is available as an official Datawrapper basemap. Upon [creating a new map in Datawrapper](https://app.datawrapper.de/create/map), simply select *"Choropleth Map"*, then look for *"Switzerland > Cantons (square)"*. See also [Weekly Chart: A tilemap of Switzerland cantons – with some twists](https://blog.datawrapper.de/tilemap-of-swiss-cantons/).
+  - **... as GeoJSON file** (WGS 1984, [EPSG:4326](http://spatialreference.org/ref/epsg/4326)). Use this file in e.g. [**Datawrapper**](https://www.datawrapper.de) and choose "Natural Earth" projection for the tiles to display as regularly spaced squares. Update: As of 02.2021, the tilemap is available as an official [Datawrapper](https://www.datawrapper.de/) basemap. Upon [creating a new map in Datawrapper](https://app.datawrapper.de/create/map), simply select *"Choropleth Map"*, then look for *"Switzerland > Cantons (square)"*. See also [Weekly Chart: A tilemap of Switzerland cantons – with some twists](https://blog.datawrapper.de/tilemap-of-swiss-cantons/).
   - **... as Shapefile**, for use in desktop GIS or web mapping frameworks with custom projections
 * **data for display in CH1903+ LV95** ([EPSG:2056](http://spatialreference.org/ref/epsg/2056/)) **as Shapefile**, for use in desktop GIS or web mapping frameworks with custom projections
 * **data for display in CH1903 LV03** ([EPSG:21781](http://spatialreference.org/ref/epsg/21781/), a deprecated spatial reference system) **as Shapefile**, for use in desktop GIS or web mapping frameworks with custom projections
